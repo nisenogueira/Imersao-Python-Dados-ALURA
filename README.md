@@ -6,4 +6,4 @@ A análise de dados tem se mostrado um nicho crescente nos últimos anos e se to
 
 Neste repositório, irei apresentar o passo a passo de como utilizar a linguagem Python e bibliotecas como Pandas de forma aprimorada para fazer a limpeza de dados e criar dashboards interativos que tornam a visualização dessas informações muito mais simples e práticas! 
 
-## Vamos começar! 🚀
+## Let's begin! 🚀
